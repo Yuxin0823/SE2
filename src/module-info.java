@@ -5,5 +5,5 @@
  * @author Administrator
  *
  */
-module AE2 {
+module AE2 { hello
 }
